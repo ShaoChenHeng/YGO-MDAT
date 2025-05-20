@@ -1,0 +1,131 @@
+{
+  "coin_wins": 28,
+  "wins": 51,
+  "first_moves": 32,
+  "total_matches": 73,
+  "first_move_wins": 24,
+  "second_move_wins": 27,
+  "win_coin_wins": 21,
+  "lose_coin_wins": 30,
+  "win_rate": 69.86,
+  "coin_win_rate": 38.36,
+  "first_move_rate": 43.84,
+  "first_move_win_rate": 75.0,
+  "second_move_win_rate": 65.85,
+  "win_coin_win_rate": 75.0,
+  "lose_coin_win_rate": 66.67,
+  "coin_fairness_test": {
+    "chi2_statistic": 3.958904109589041,
+    "p_value": 0.04662404756247862,
+    "is_fair": false
+  },
+  "binom_test": 0.060370037339928545,
+  "top_10_decks": {
+    "白银城": 8,
+    "烙印": 6,
+    "60烙印": 6,
+    "VS": 4,
+    "相剑": 3,
+    "超重": 3,
+    "转生炎兽": 2,
+    "英雄": 2,
+    "闪刀姬": 2,
+    "60龙link": 2
+  },
+  "my_decks": {
+    "斩机": {
+      "total": 64,
+      "wins": 45,
+      "win_rate": 70.31,
+      "coin_wins": 27,
+      "coin_win_rate": 42.19
+    },
+    "珠泪": {
+      "total": 9,
+      "wins": 6,
+      "win_rate": 66.67,
+      "coin_wins": 1,
+      "coin_win_rate": 11.11
+    }
+  },
+  "coin_streaks": {
+    "win_occurrences": 3,
+    "lose_occurrences": 8,
+    "max_win_streak": 6,
+    "max_lose_streak": 8,
+    "streak_list": {
+      "win": [
+        3,
+        6,
+        3
+      ],
+      "lose": [
+        3,
+        3,
+        4,
+        6,
+        3,
+        3,
+        3,
+        8
+      ]
+    }
+  },
+  "middle_stats": [
+    {
+      "total_matches": 36,
+      "wins": 28,
+      "coin_wins": 15,
+      "first_moves": 16,
+      "first_move_wins": 14,
+      "second_move_wins": 14,
+      "win_coin_wins": 13,
+      "lose_coin_wins": 15,
+      "win_rate": 77.78,
+      "coin_win_rate": 41.67,
+      "first_move_rate": 44.44,
+      "first_move_win_rate": 87.5,
+      "second_move_win_rate": 70.0,
+      "win_coin_win_rate": 86.67,
+      "lose_coin_win_rate": 71.43,
+      "coin_fairness_test": {
+        "chi2_statistic": 1.0,
+        "p_value": 0.31731050786291115,
+        "is_fair": true
+      },
+      "binom_test": 0.4050322461407632
+    }
+  ],
+  "interval_stats": [
+    {
+      "total_matches": 20,
+      "coin_win_rate": 40.0,
+      "win_rate": 75.0,
+      "first_move_rate": 40.0,
+      "first_move_win_rate": 87.5,
+      "second_move_win_rate": 66.67,
+      "win_coin_win_rate": 87.5,
+      "lose_coin_win_rate": 66.67
+    },
+    {
+      "total_matches": 40,
+      "coin_win_rate": 40.0,
+      "win_rate": 72.5,
+      "first_move_rate": 45.0,
+      "first_move_win_rate": 83.33,
+      "second_move_win_rate": 63.64,
+      "win_coin_win_rate": 87.5,
+      "lose_coin_win_rate": 62.5
+    },
+    {
+      "total_matches": 60,
+      "coin_win_rate": 43.33,
+      "win_rate": 71.67,
+      "first_move_rate": 48.33,
+      "first_move_win_rate": 75.86,
+      "second_move_win_rate": 67.74,
+      "win_coin_win_rate": 76.92,
+      "lose_coin_win_rate": 67.65
+    }
+  ]
+}

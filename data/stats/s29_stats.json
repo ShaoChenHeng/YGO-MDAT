@@ -1,0 +1,152 @@
+{
+  "coin_wins": 44,
+  "wins": 56,
+  "first_moves": 47,
+  "total_matches": 85,
+  "first_move_wins": 41,
+  "second_move_wins": 15,
+  "win_coin_wins": 38,
+  "lose_coin_wins": 18,
+  "win_rate": 65.88,
+  "coin_win_rate": 51.76,
+  "first_move_rate": 55.29,
+  "first_move_win_rate": 87.23,
+  "second_move_win_rate": 39.47,
+  "win_coin_win_rate": 86.36,
+  "lose_coin_win_rate": 43.9,
+  "coin_fairness_test": {
+    "chi2_statistic": 0.10588235294117647,
+    "p_value": 0.7448816195459561,
+    "is_fair": true
+  },
+  "binom_test": 0.8284232741648999,
+  "top_10_decks": {
+    "珠泪": 7,
+    "荷鲁斯": 6,
+    "白银城": 4,
+    "客迈拉": 4,
+    "荷鲁斯珠泪": 4,
+    "御巫": 3,
+    "恐龙": 3,
+    "救援": 3,
+    "转生炎兽": 3,
+    "NaN": 3
+  },
+  "my_decks": {
+    "俱舍蛇眼": {
+      "total": 54,
+      "wins": 38,
+      "win_rate": 70.37,
+      "coin_wins": 31,
+      "coin_win_rate": 57.41
+    },
+    "焰圣御巫": {
+      "total": 5,
+      "wins": 4,
+      "win_rate": 80.0,
+      "coin_wins": 2,
+      "coin_win_rate": 40.0
+    },
+    "斩机": {
+      "total": 17,
+      "wins": 10,
+      "win_rate": 58.82,
+      "coin_wins": 8,
+      "coin_win_rate": 47.06
+    },
+    "皮尔莉": {
+      "total": 9,
+      "wins": 4,
+      "win_rate": 44.44,
+      "coin_wins": 3,
+      "coin_win_rate": 33.33
+    }
+  },
+  "coin_streaks": {
+    "win_occurrences": 4,
+    "lose_occurrences": 4,
+    "max_win_streak": 5,
+    "max_lose_streak": 4,
+    "streak_list": {
+      "win": [
+        4,
+        5,
+        3,
+        3
+      ],
+      "lose": [
+        4,
+        3,
+        3,
+        4
+      ]
+    }
+  },
+  "middle_stats": [
+    {
+      "total_matches": 42,
+      "wins": 26,
+      "coin_wins": 23,
+      "first_moves": 24,
+      "first_move_wins": 20,
+      "second_move_wins": 6,
+      "win_coin_wins": 19,
+      "lose_coin_wins": 7,
+      "win_rate": 61.9,
+      "coin_win_rate": 54.76,
+      "first_move_rate": 57.14,
+      "first_move_win_rate": 83.33,
+      "second_move_win_rate": 33.33,
+      "win_coin_win_rate": 82.61,
+      "lose_coin_win_rate": 36.84,
+      "coin_fairness_test": {
+        "chi2_statistic": 0.38095238095238093,
+        "p_value": 0.5370939784426414,
+        "is_fair": true
+      },
+      "binom_test": 0.6439689563703723
+    }
+  ],
+  "interval_stats": [
+    {
+      "total_matches": 20,
+      "coin_win_rate": 55.0,
+      "win_rate": 65.0,
+      "first_move_rate": 60.0,
+      "first_move_win_rate": 83.33,
+      "second_move_win_rate": 37.5,
+      "win_coin_win_rate": 81.82,
+      "lose_coin_win_rate": 44.44
+    },
+    {
+      "total_matches": 40,
+      "coin_win_rate": 55.0,
+      "win_rate": 62.5,
+      "first_move_rate": 57.5,
+      "first_move_win_rate": 86.96,
+      "second_move_win_rate": 29.41,
+      "win_coin_win_rate": 86.36,
+      "lose_coin_win_rate": 33.33
+    },
+    {
+      "total_matches": 60,
+      "coin_win_rate": 55.0,
+      "win_rate": 68.33,
+      "first_move_rate": 60.0,
+      "first_move_win_rate": 88.89,
+      "second_move_win_rate": 37.5,
+      "win_coin_win_rate": 87.88,
+      "lose_coin_win_rate": 44.44
+    },
+    {
+      "total_matches": 80,
+      "coin_win_rate": 51.25,
+      "win_rate": 65.0,
+      "first_move_rate": 55.0,
+      "first_move_win_rate": 86.36,
+      "second_move_win_rate": 38.89,
+      "win_coin_win_rate": 85.37,
+      "lose_coin_win_rate": 43.59
+    }
+  ]
+}

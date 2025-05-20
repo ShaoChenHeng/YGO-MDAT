@@ -1,0 +1,698 @@
+[
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "俱舍",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": "钻石5"
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "斩机",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "超重焰圣",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "闪刀天杯",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "天杯龙",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "刻魔破械",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "蛇眼炎王",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "百夫骑",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "60世坏均",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "俱舍",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "冥铭途",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "60烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "60GS",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "刻魔冥铭途",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "大师5"
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "古巨基",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "俱舍",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "俱舍",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "冥铭途",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": "卡手"
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "闪刀天杯",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "闪刀天杯",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "闪刀天杯",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": "新卡包"
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "千年刻魔渊兽世坏",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "灵兽",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": "卡手"
+  },
+  {
+    "my_deck": "千刻蛇",
+    "op_deck": "千刻蛇",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "千刻蛇",
+    "op_deck": "原石青眼",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "千刻蛇",
+    "op_deck": "刻蛇救援",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "千刻蛇",
+    "op_deck": "千刻白森",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "千刻蛇",
+    "op_deck": "阿尔戈群星",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "千刻蛇",
+    "op_deck": "白银城",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "千刻蛇",
+    "op_deck": "冥铭途",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "千刻蛇",
+    "op_deck": "刻魔尤贝尔",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "千刻蛇",
+    "op_deck": "百夫骑",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "千刻蛇",
+    "op_deck": "转生炎兽",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "海皇",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "千年",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "60烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "闪刀姬",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "神碑闪灵",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "千刻白森",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "俱舍",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "烙印",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "千刻蛇",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "渊兽刻魔",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "千刻蛇",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "渊兽刻魔",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "刻魔蛇眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "60蛇眼罪宝秘旋谍",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "刻魔蛇眼",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "刻魔百夫骑",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "刻魔朋克",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原始刻魔渊兽",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原始刻魔渊兽",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "刻魔救援",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "原石青眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "刻魔蛇眼炎王",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "原石青眼",
+    "op_deck": "俱舍朋克",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": "大师1"
+  }
+]

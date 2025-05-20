@@ -1,0 +1,1082 @@
+[
+  {
+    "my_deck": "后手",
+    "op_deck": "黑羽",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": "铂金"
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "脚本霍普",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "源数枪王",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "音响神数",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "Burn",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "脚本霍普",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "雷童蛙",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "枪王旅鸟",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "魔术师",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "大植然春化精",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "影依珠泪",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "雷童鱼",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "魔救地均",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "雷童蛙",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "魔救地均",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "烙印珠泪",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "天威相剑",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "救祓少女",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "斩机",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "救祓少女",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "救祓少女",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "珠泪",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "旅鸟",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "深渊珠泪",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": "新卡包"
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "深渊珠泪",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "珠泪",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "救祓少女",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "深渊烙印",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "60黄金国",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "救祓少女",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "雷童",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "后手",
+    "op_deck": "深渊龙link",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷精珠泪",
+    "op_deck": "救祓少女",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "钻石"
+  },
+  {
+    "my_deck": "雷精珠泪",
+    "op_deck": "自然春化精",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷精珠泪",
+    "op_deck": "深渊烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷精珠泪",
+    "op_deck": "深渊烙印珠泪",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷精珠泪",
+    "op_deck": "旅鸟",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷精珠泪",
+    "op_deck": "旅鸟",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷精珠泪",
+    "op_deck": "黑羽",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷精珠泪",
+    "op_deck": "地均",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "雷蛙",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "珠泪",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "深渊烙印",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "枪王旅鸟",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "源数",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "雷童蛙",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "深渊珠泪",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "深渊烙印",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "幻变骚灵",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "深渊烙印",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "深渊珠泪",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "深渊烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "雷双",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "黑羽",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "深渊龙link",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "春化精甜点",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "影依雷精",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "深渊龙link",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "雷童蛙",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "深渊烙印珠泪",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "深渊烙印",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "源数",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "守宝团",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "六花圣天树",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "深渊烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "DDD",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "天威相剑",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "深渊珠泪",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "Metabeat",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "60深渊烙印珠泪",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "旅鸟",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "深渊救祓少女",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "深渊烙印",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "雷铁",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": "大师"
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "深渊雷童蛙",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "守墓",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "深渊朋克",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "60深渊烙印珠泪",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "魔界剧团",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "深渊龙link",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "雷童蛙",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "深渊气炎珠泪",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "Metabeat",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "60深渊烙印珠泪",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "勇者深渊",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "斩机火灵天星",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "珠泪",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "气炎珠泪",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "勇者深渊",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "天威相剑",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "深渊雷龙烙印",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "旅鸟",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "深渊烙印",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "雷童蛙",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "深渊雷精",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "50割草深渊珠泪",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "深渊烙印",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "Metabeat",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "深渊龙link",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "雷铁",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "魔救地均",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "珠泪",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "深渊烙印",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "魔救地均",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "气炎珠泪",
+    "op_deck": "深渊龙link",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "珠泪",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "救祓",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "雷童蛙",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "60割草均",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "龙星朋克",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "60深渊朋克珠泪",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "雷童蛙",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "气炎珠泪",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "烙印铁兽",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "神碑",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "救祓",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "60烙印雷龙珠泪",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "雷童蛙",
+    "op_deck": "雷童蛙",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  }
+]

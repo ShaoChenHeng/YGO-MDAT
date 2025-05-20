@@ -1,0 +1,258 @@
+[
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "转生炎兽",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "咒仪雷精",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "对击斗魂",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "PSY",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "月光",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "白银城",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "雷龙",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "童话雷精",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "俱舍创王",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": "新卡包"
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "十二兽",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "白银城",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "对击斗魂",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "俱舍珠泪",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "恐啡肽",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "俱舍",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "俱舍",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "俱舍",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "魔妖",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "深渊烙印",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机电子界",
+    "op_deck": "御巫",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "深渊同调",
+    "op_deck": "白银城",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "深渊同调",
+    "op_deck": "俱舍珠泪",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "深渊同调",
+    "op_deck": "60深渊烙印",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "深渊同调",
+    "op_deck": "白银城",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "深渊同调",
+    "op_deck": "60深渊龙link",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "深渊同调",
+    "op_deck": "60深渊烙印",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "深渊同调",
+    "op_deck": "60捕食烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "深渊同调",
+    "op_deck": "驱魔姐妹",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "深渊同调",
+    "op_deck": "对击斗魂",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "深渊同调",
+    "op_deck": "对击斗魂",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "深渊同调",
+    "op_deck": "俱舍",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "深渊同调",
+    "op_deck": "驱魔姐妹",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  }
+]

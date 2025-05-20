@@ -1,0 +1,1154 @@
+[
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "烧血堕天使",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": "钻石"
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "白银城",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "闪刀姬",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "深渊龙link",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "深渊龙link",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": "升段人情局"
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "俱舍",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "掉线"
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "旅鸟",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "相剑",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "勇者雷精",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "深渊龙link",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "风同调均",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "圆武电子界",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "圆武电子界",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "深渊龙link",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "俱舍",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "童蛙雷精",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "魔术师",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "奕勇",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "俱舍",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍雷精",
+    "op_deck": "闪刀姬",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "双子雷精",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "新卡包"
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "闪刀姬",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "纯爱",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "俱舍朋克",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "白银城",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "御巫",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "旅鸟",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "俱舍朋克",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "俱舍",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "纯爱",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "纯爱",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "俱舍",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "俱舍",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "纯爱",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "白银城",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "自然",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "俱舍",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "闪刀姬",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "深渊龙link",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "雷精",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "纯爱",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "俱舍",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "魔玩具",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "白银城",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "俱舍",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "御巫",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "捕食烙印",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "自然神碑",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "御巫",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "俱舍",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": "挂机"
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "LL铁兽",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "恐啡肽",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "电子界",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "御巫",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "俱舍",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "雷精",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": "让先"
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "御巫",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": "让先"
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "圆武电子界",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": "让先"
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "电子龙",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": "让先"
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "御巫",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": "让先"
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "深渊烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "纯爱",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": "让先"
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "龙剑士",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": "让先"
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "御巫",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": "让先"
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "深渊龙link",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": "让先"
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "四世坏",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "俱舍",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "俱舍朋克",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "御巫",
+    "op_deck": "深渊龙link",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": "让先"
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "御巫",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "天威相剑",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "圆武电子界",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "白银城",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "60割草机甲",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "御巫",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "纯爱珠泪",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "白银城",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "60机甲起动",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "御巫",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "白银城",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "雷精",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "虫惑魔",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "纯爱",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "咒眼",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "白银城",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "纯爱",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "圆武电子界",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "纯爱",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "深渊龙link",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "御巫",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "深渊龙link",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "60深渊龙link",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "纯爱",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "深渊龙link",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "纯爱",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "虫惑魔",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "白银城",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "烙印",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "俱舍",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "相剑",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "闪刀盖亚",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "相剑",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "俱舍",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "俱舍朋克",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "纯爱",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "奕勇",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "纯爱",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "英雄",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "圆武电子界",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "魔界剧团",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "电子龙",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": "大师"
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "相剑",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "闪刀姬",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "奕勇",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "御巫",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "神碑",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "忍者",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "御巫",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "源数",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "忍者",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "纯爱",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "深渊龙link",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "雷铁",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "相剑",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "圆武电子界",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "银河眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "黑羽",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "纯爱",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "龙辉巧",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "魔术师",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "魔术师",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": "对方能赢认输"
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "忍者",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "纯爱",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "俱舍",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "纯爱",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "10连胜"
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "Metabeat",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "相剑",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "捕食烙印",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "60雷精",
+    "op_deck": "俱舍",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "深渊烙印",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "坏兽R8",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "白银城",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "创王",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "纯爱",
+    "op_deck": "奕勇",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  }
+]

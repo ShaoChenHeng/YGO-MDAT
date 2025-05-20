@@ -1,0 +1,204 @@
+{
+  "coin_wins": 80,
+  "wins": 98,
+  "first_moves": 86,
+  "total_matches": 167,
+  "first_move_wins": 56,
+  "second_move_wins": 42,
+  "win_coin_wins": 51,
+  "lose_coin_wins": 47,
+  "win_rate": 58.68,
+  "coin_win_rate": 47.9,
+  "first_move_rate": 51.5,
+  "first_move_win_rate": 65.12,
+  "second_move_win_rate": 51.85,
+  "win_coin_win_rate": 63.75,
+  "lose_coin_win_rate": 54.02,
+  "coin_fairness_test": {
+    "chi2_statistic": 0.2934131736526946,
+    "p_value": 0.5880415448555951,
+    "is_fair": true
+  },
+  "binom_test": 0.6425688093388651,
+  "top_10_decks": {
+    "俱舍": 34,
+    "白银城": 16,
+    "斩机电子界": 15,
+    "纯爱": 15,
+    "旅鸟": 5,
+    "珠泪": 5,
+    "深渊龙link": 5,
+    "御巫": 4,
+    "恐惧爪": 4,
+    "俱舍珠泪": 4
+  },
+  "my_decks": {
+    "60雷精": {
+      "total": 41,
+      "wins": 23,
+      "win_rate": 56.1,
+      "coin_wins": 16,
+      "coin_win_rate": 39.02
+    },
+    "纯爱珠泪": {
+      "total": 16,
+      "wins": 9,
+      "win_rate": 56.25,
+      "coin_wins": 9,
+      "coin_win_rate": 56.25
+    },
+    "纯爱": {
+      "total": 72,
+      "wins": 44,
+      "win_rate": 61.11,
+      "coin_wins": 35,
+      "coin_win_rate": 48.61
+    },
+    "斩机电子界": {
+      "total": 38,
+      "wins": 22,
+      "win_rate": 57.89,
+      "coin_wins": 20,
+      "coin_win_rate": 52.63
+    }
+  },
+  "coin_streaks": {
+    "win_occurrences": 9,
+    "lose_occurrences": 11,
+    "max_win_streak": 7,
+    "max_lose_streak": 6,
+    "streak_list": {
+      "win": [
+        5,
+        7,
+        3,
+        6,
+        3,
+        3,
+        3,
+        3,
+        5
+      ],
+      "lose": [
+        6,
+        3,
+        3,
+        3,
+        6,
+        3,
+        3,
+        4,
+        3,
+        5,
+        4
+      ]
+    }
+  },
+  "middle_stats": [
+    {
+      "total_matches": 83,
+      "wins": 50,
+      "coin_wins": 38,
+      "first_moves": 42,
+      "first_move_wins": 25,
+      "second_move_wins": 25,
+      "win_coin_wins": 22,
+      "lose_coin_wins": 28,
+      "win_rate": 60.24,
+      "coin_win_rate": 45.78,
+      "first_move_rate": 50.6,
+      "first_move_win_rate": 59.52,
+      "second_move_win_rate": 60.98,
+      "win_coin_win_rate": 57.89,
+      "lose_coin_win_rate": 62.22,
+      "coin_fairness_test": {
+        "chi2_statistic": 0.5903614457831325,
+        "p_value": 0.4422793839072201,
+        "is_fair": true
+      },
+      "binom_test": 0.5104099416812344
+    }
+  ],
+  "interval_stats": [
+    {
+      "total_matches": 20,
+      "coin_win_rate": 25.0,
+      "win_rate": 65.0,
+      "first_move_rate": 40.0,
+      "first_move_win_rate": 75.0,
+      "second_move_win_rate": 58.33,
+      "win_coin_win_rate": 60.0,
+      "lose_coin_win_rate": 66.67
+    },
+    {
+      "total_matches": 40,
+      "coin_win_rate": 50.0,
+      "win_rate": 60.0,
+      "first_move_rate": 57.5,
+      "first_move_win_rate": 69.57,
+      "second_move_win_rate": 47.06,
+      "win_coin_win_rate": 65.0,
+      "lose_coin_win_rate": 55.0
+    },
+    {
+      "total_matches": 60,
+      "coin_win_rate": 48.33,
+      "win_rate": 63.33,
+      "first_move_rate": 53.33,
+      "first_move_win_rate": 68.75,
+      "second_move_win_rate": 57.14,
+      "win_coin_win_rate": 65.52,
+      "lose_coin_win_rate": 61.29
+    },
+    {
+      "total_matches": 80,
+      "coin_win_rate": 47.5,
+      "win_rate": 58.75,
+      "first_move_rate": 52.5,
+      "first_move_win_rate": 59.52,
+      "second_move_win_rate": 57.89,
+      "win_coin_win_rate": 57.89,
+      "lose_coin_win_rate": 59.52
+    },
+    {
+      "total_matches": 100,
+      "coin_win_rate": 48.0,
+      "win_rate": 59.0,
+      "first_move_rate": 52.0,
+      "first_move_win_rate": 61.54,
+      "second_move_win_rate": 56.25,
+      "win_coin_win_rate": 60.42,
+      "lose_coin_win_rate": 57.69
+    },
+    {
+      "total_matches": 120,
+      "coin_win_rate": 47.5,
+      "win_rate": 60.0,
+      "first_move_rate": 51.67,
+      "first_move_win_rate": 62.9,
+      "second_move_win_rate": 56.9,
+      "win_coin_win_rate": 61.4,
+      "lose_coin_win_rate": 58.73
+    },
+    {
+      "total_matches": 140,
+      "coin_win_rate": 47.14,
+      "win_rate": 60.0,
+      "first_move_rate": 51.43,
+      "first_move_win_rate": 63.89,
+      "second_move_win_rate": 55.88,
+      "win_coin_win_rate": 62.12,
+      "lose_coin_win_rate": 58.11
+    },
+    {
+      "total_matches": 160,
+      "coin_win_rate": 46.25,
+      "win_rate": 58.13,
+      "first_move_rate": 50.0,
+      "first_move_win_rate": 63.75,
+      "second_move_win_rate": 52.5,
+      "win_coin_win_rate": 62.16,
+      "lose_coin_win_rate": 54.65
+    }
+  ]
+}

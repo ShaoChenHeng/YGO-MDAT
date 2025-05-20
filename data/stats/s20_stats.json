@@ -1,0 +1,145 @@
+{
+  "coin_wins": 42,
+  "wins": 64,
+  "first_moves": 45,
+  "total_matches": 93,
+  "first_move_wins": 37,
+  "second_move_wins": 27,
+  "win_coin_wins": 34,
+  "lose_coin_wins": 30,
+  "win_rate": 68.82,
+  "coin_win_rate": 45.16,
+  "first_move_rate": 48.39,
+  "first_move_win_rate": 82.22,
+  "second_move_win_rate": 56.25,
+  "win_coin_win_rate": 80.95,
+  "lose_coin_win_rate": 58.82,
+  "coin_fairness_test": {
+    "chi2_statistic": 0.8709677419354839,
+    "p_value": 0.35068753604798364,
+    "is_fair": true
+  },
+  "binom_test": 0.4069243680461353,
+  "top_10_decks": {
+    "珠泪": 21,
+    "白银城": 9,
+    "俱舍": 8,
+    "深渊龙link": 5,
+    "童蛙雷精": 4,
+    "旅鸟": 3,
+    "空牙团雷精": 2,
+    "英雄": 2,
+    "天威相剑": 2,
+    "Metabeat": 2
+  },
+  "my_decks": {
+    "珠泪": {
+      "total": 71,
+      "wins": 47,
+      "win_rate": 66.2,
+      "coin_wins": 30,
+      "coin_win_rate": 42.25
+    },
+    "雷童蛙": {
+      "total": 8,
+      "wins": 5,
+      "win_rate": 62.5,
+      "coin_wins": 3,
+      "coin_win_rate": 37.5
+    },
+    "俱舍雷精": {
+      "total": 14,
+      "wins": 12,
+      "win_rate": 85.71,
+      "coin_wins": 9,
+      "coin_win_rate": 64.29
+    }
+  },
+  "coin_streaks": {
+    "win_occurrences": 2,
+    "lose_occurrences": 6,
+    "max_win_streak": 3,
+    "max_lose_streak": 5,
+    "streak_list": {
+      "win": [
+        3,
+        3
+      ],
+      "lose": [
+        4,
+        4,
+        3,
+        3,
+        5,
+        3
+      ]
+    }
+  },
+  "middle_stats": [
+    {
+      "total_matches": 46,
+      "wins": 34,
+      "coin_wins": 19,
+      "first_moves": 21,
+      "first_move_wins": 19,
+      "second_move_wins": 15,
+      "win_coin_wins": 17,
+      "lose_coin_wins": 17,
+      "win_rate": 73.91,
+      "coin_win_rate": 41.3,
+      "first_move_rate": 45.65,
+      "first_move_win_rate": 90.48,
+      "second_move_win_rate": 60.0,
+      "win_coin_win_rate": 89.47,
+      "lose_coin_win_rate": 62.96,
+      "coin_fairness_test": {
+        "chi2_statistic": 1.391304347826087,
+        "p_value": 0.23818494999201903,
+        "is_fair": true
+      },
+      "binom_test": 0.3019956131896606
+    }
+  ],
+  "interval_stats": [
+    {
+      "total_matches": 20,
+      "coin_win_rate": 45.0,
+      "win_rate": 75.0,
+      "first_move_rate": 55.0,
+      "first_move_win_rate": 90.91,
+      "second_move_win_rate": 55.56,
+      "win_coin_win_rate": 88.89,
+      "lose_coin_win_rate": 63.64
+    },
+    {
+      "total_matches": 40,
+      "coin_win_rate": 42.5,
+      "win_rate": 72.5,
+      "first_move_rate": 47.5,
+      "first_move_win_rate": 89.47,
+      "second_move_win_rate": 57.14,
+      "win_coin_win_rate": 88.24,
+      "lose_coin_win_rate": 60.87
+    },
+    {
+      "total_matches": 60,
+      "coin_win_rate": 41.67,
+      "win_rate": 73.33,
+      "first_move_rate": 45.0,
+      "first_move_win_rate": 88.89,
+      "second_move_win_rate": 60.61,
+      "win_coin_win_rate": 88.0,
+      "lose_coin_win_rate": 62.86
+    },
+    {
+      "total_matches": 80,
+      "coin_win_rate": 42.5,
+      "win_rate": 66.25,
+      "first_move_rate": 45.0,
+      "first_move_win_rate": 77.78,
+      "second_move_win_rate": 56.82,
+      "win_coin_win_rate": 76.47,
+      "lose_coin_win_rate": 58.7
+    }
+  ]
+}

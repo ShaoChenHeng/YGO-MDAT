@@ -1,0 +1,185 @@
+{
+  "coin_wins": 72,
+  "wins": 89,
+  "first_moves": 72,
+  "total_matches": 135,
+  "first_move_wins": 54,
+  "second_move_wins": 35,
+  "win_coin_wins": 54,
+  "lose_coin_wins": 35,
+  "win_rate": 65.93,
+  "coin_win_rate": 53.33,
+  "first_move_rate": 53.33,
+  "first_move_win_rate": 75.0,
+  "second_move_win_rate": 55.56,
+  "win_coin_win_rate": 75.0,
+  "lose_coin_win_rate": 55.56,
+  "coin_fairness_test": {
+    "chi2_statistic": 0.6,
+    "p_value": 0.4385780260809997,
+    "is_fair": true
+  },
+  "binom_test": 0.49126245778292355,
+  "top_10_decks": {
+    "珠泪": 23,
+    "深渊烙印": 12,
+    "雷童蛙": 9,
+    "救祓少女": 6,
+    "深渊龙link": 6,
+    "旅鸟": 5,
+    "深渊珠泪": 5,
+    "魔救地均": 4,
+    "黑羽": 3,
+    "天威相剑": 3
+  },
+  "my_decks": {
+    "后手": {
+      "total": 44,
+      "wins": 28,
+      "win_rate": 63.64,
+      "coin_wins": 18,
+      "coin_win_rate": 40.91
+    },
+    "雷精珠泪": {
+      "total": 8,
+      "wins": 6,
+      "win_rate": 75.0,
+      "coin_wins": 5,
+      "coin_win_rate": 62.5
+    },
+    "雷童蛙": {
+      "total": 37,
+      "wins": 25,
+      "win_rate": 67.57,
+      "coin_wins": 21,
+      "coin_win_rate": 56.76
+    },
+    "气炎珠泪": {
+      "total": 46,
+      "wins": 30,
+      "win_rate": 65.22,
+      "coin_wins": 28,
+      "coin_win_rate": 60.87
+    }
+  },
+  "coin_streaks": {
+    "win_occurrences": 13,
+    "lose_occurrences": 8,
+    "max_win_streak": 9,
+    "max_lose_streak": 8,
+    "streak_list": {
+      "win": [
+        4,
+        3,
+        3,
+        4,
+        3,
+        4,
+        3,
+        4,
+        9,
+        3,
+        3,
+        3,
+        3
+      ],
+      "lose": [
+        3,
+        3,
+        8,
+        3,
+        4,
+        3,
+        4,
+        4
+      ]
+    }
+  },
+  "middle_stats": [
+    {
+      "total_matches": 67,
+      "wins": 45,
+      "coin_wins": 34,
+      "first_moves": 34,
+      "first_move_wins": 25,
+      "second_move_wins": 20,
+      "win_coin_wins": 25,
+      "lose_coin_wins": 20,
+      "win_rate": 67.16,
+      "coin_win_rate": 50.75,
+      "first_move_rate": 50.75,
+      "first_move_win_rate": 73.53,
+      "second_move_win_rate": 60.61,
+      "win_coin_win_rate": 73.53,
+      "lose_coin_win_rate": 60.61,
+      "coin_fairness_test": {
+        "chi2_statistic": 0.014925373134328358,
+        "p_value": 0.9027648250246224,
+        "is_fair": true
+      },
+      "binom_test": 1.0
+    }
+  ],
+  "interval_stats": [
+    {
+      "total_matches": 20,
+      "coin_win_rate": 45.0,
+      "win_rate": 55.0,
+      "first_move_rate": 45.0,
+      "first_move_win_rate": 55.56,
+      "second_move_win_rate": 54.55,
+      "win_coin_win_rate": 55.56,
+      "lose_coin_win_rate": 54.55
+    },
+    {
+      "total_matches": 40,
+      "coin_win_rate": 42.5,
+      "win_rate": 62.5,
+      "first_move_rate": 42.5,
+      "first_move_win_rate": 70.59,
+      "second_move_win_rate": 56.52,
+      "win_coin_win_rate": 70.59,
+      "lose_coin_win_rate": 56.52
+    },
+    {
+      "total_matches": 60,
+      "coin_win_rate": 48.33,
+      "win_rate": 66.67,
+      "first_move_rate": 48.33,
+      "first_move_win_rate": 75.86,
+      "second_move_win_rate": 58.06,
+      "win_coin_win_rate": 75.86,
+      "lose_coin_win_rate": 58.06
+    },
+    {
+      "total_matches": 80,
+      "coin_win_rate": 48.75,
+      "win_rate": 66.25,
+      "first_move_rate": 48.75,
+      "first_move_win_rate": 71.79,
+      "second_move_win_rate": 60.98,
+      "win_coin_win_rate": 71.79,
+      "lose_coin_win_rate": 60.98
+    },
+    {
+      "total_matches": 100,
+      "coin_win_rate": 53.0,
+      "win_rate": 68.0,
+      "first_move_rate": 53.0,
+      "first_move_win_rate": 75.47,
+      "second_move_win_rate": 59.57,
+      "win_coin_win_rate": 75.47,
+      "lose_coin_win_rate": 59.57
+    },
+    {
+      "total_matches": 120,
+      "coin_win_rate": 54.17,
+      "win_rate": 65.0,
+      "first_move_rate": 54.17,
+      "first_move_win_rate": 73.85,
+      "second_move_win_rate": 54.55,
+      "win_coin_win_rate": 73.85,
+      "lose_coin_win_rate": 54.55
+    }
+  ]
+}

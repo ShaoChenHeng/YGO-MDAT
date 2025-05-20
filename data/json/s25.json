@@ -1,0 +1,586 @@
+[
+  {
+    "my_deck": "斩机",
+    "op_deck": "烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "铂金5"
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "创王",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "俱舍天气",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "转生炎兽",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": "超时"
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "深渊五世坏雷龙",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "白银城",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "雷精咒仪",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "守墓",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "烙印",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "雷精双子",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "驱魔恐啡肽",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "英雄",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "VS",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "闪刀姬",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "俱舍咒眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "魔偶甜点",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "60龙link",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "相剑",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "闪刀姬",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "Metabeat",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "世坏均",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "翼神龙",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "黄金国",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "超重",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "超重",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "黑羽",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "白银恐啡肽",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "VS",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "VS",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "斩机",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "60烙印",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "烙印",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "斩机",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "恐啡肽",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": "钻石5"
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "相剑",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "VS",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "Metabeat",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "御巫",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "60烙印",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "俱舍",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "白银城",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "相剑",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "空牙团雷精神碑",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "白银城",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "60烙印",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "白银城",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "60烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "金宫斩机",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "英雄",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "教导",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "恐龙",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "白银城",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "白银城",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "征龙武装龙",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "黄金荣耀",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "白银城",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "投降"
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "超重",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "60相剑",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "烙印",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "45世坏",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "斩机",
+    "op_deck": "朋克荣耀",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "咒仪雷精",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "60烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "超时"
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "45世坏",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "白银城",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "奕勇",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "60烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "十二兽",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "60龙link",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "转生炎兽",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  }
+]

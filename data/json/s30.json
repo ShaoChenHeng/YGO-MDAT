@@ -1,0 +1,538 @@
+[
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "荷鲁斯冥铭途",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "铂金5"
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "深渊同调",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "冥铭途",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "荷鲁斯白银城",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "荷鲁斯白龙",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "荷鲁斯白银城",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "虫惑魔",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "蛇眼",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "白银城",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "蛇眼",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "电子龙",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "自然荷鲁斯",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "旅鸟",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": "新卡包"
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "御巫",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "客迈拉",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "海",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "闪刀姬",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "相剑",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "皮尔莉",
+    "op_deck": "荷鲁斯",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "皮尔莉",
+    "op_deck": "英雄",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "皮尔莉",
+    "op_deck": "荷鲁斯",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "皮尔莉",
+    "op_deck": "蛇眼炎王",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "皮尔莉",
+    "op_deck": "霸王门魔术师",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "皮尔莉",
+    "op_deck": "俱舍蛇眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "皮尔莉",
+    "op_deck": "60英雄",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "皮尔莉",
+    "op_deck": "60宝玉兽",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "皮尔莉",
+    "op_deck": "炎兽",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "皮尔莉",
+    "op_deck": "60烙印",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "皮尔莉",
+    "op_deck": "荷鲁斯吸血鬼",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "皮尔莉",
+    "op_deck": "海",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "皮尔莉",
+    "op_deck": "御巫",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": "被让先"
+  },
+  {
+    "my_deck": "皮尔莉",
+    "op_deck": "荷鲁斯",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "皮尔莉",
+    "op_deck": "LL",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "60英雄",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "MB",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "荷鲁斯",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "60MB",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "冥铭途",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "俱舍蛇眼",
+    "op_deck": "魔导",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "俱舍蛇眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "自然",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "蛇眼炎王",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "60MB",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "荷鲁斯俱舍",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "梦见",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "古生物",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "60烙印",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "俱舍荷鲁斯",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "VS",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "斩机",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "俱舍蛇眼",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "珠泪",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "蛇眼",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "珠泪",
+    "first_move": "first",
+    "match_res": "lose",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "VS",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "MB",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "蛇眼炎王",
+    "first_move": "second",
+    "match_res": "win",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "俱舍蛇眼",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "炎王",
+    "first_move": "second",
+    "match_res": "lose",
+    "coin_res": "lose",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "荷鲁斯珠泪",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "御巫",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "闪刀姬",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  },
+  {
+    "my_deck": "珠泪",
+    "op_deck": "铠装十二兽",
+    "first_move": "first",
+    "match_res": "win",
+    "coin_res": "win",
+    "notes": ""
+  }
+]
